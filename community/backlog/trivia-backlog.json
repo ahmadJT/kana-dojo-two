@@ -669,7 +669,9 @@
     ],
     "correctIndex": 0,
     "completed": false,
-    "issued": true
+    "issued": false,
+    "completedBy": "wsimon1982",
+    "completedPR": 17407
   },
   {
     "id": 49,
@@ -1790,7 +1792,7 @@
       "Oden"
     ],
     "correctIndex": 0,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
